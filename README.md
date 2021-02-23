@@ -1,0 +1,1 @@
+# szabotamas_gitgyakorlas
