@@ -1,5 +1,8 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+<<<<<<< HEAD
 # CodeStream ignored files
 /../../szabotamas_gitgyakorlas\.idea/codestream.xml
+=======
+>>>>>>> origin/main
